@@ -1,5 +1,6 @@
-# Tableau ELECTRIC-VEHICLE-DATA-ANALYSIS
+ELECTRIC-VEHICLE-DATA-ANALYSIS
 
-Built an interactive dashboard using Tableau to analyze over 1.5 lakh electric vehicles by type, model, year, and state.
-Visualized key insights like EV growth trends, top manufacturers (Tesla, Nissan), BEV vs PHEV ratios, and CAFV eligibility using charts, maps, and filters.
+Created a Tableau dashboard to uncover trends in electric vehicle data. Analyzed vehicle type, make, model year, and CAFV eligibility. 
+Delivered key insights using KPIs, interactive filters, and geospatial maps — ideal for decision-making and EV policy analysis.
 
+📦 Dataset Download:  https://drive.google.com/file/d/1asDuP2_fUipXuUt_hsorTz0_o5rCiUlx/view?usp=drive_link 
